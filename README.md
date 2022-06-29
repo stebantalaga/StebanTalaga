@@ -1,7 +1,9 @@
-<ul><li>👋 Hola, soy @stebantalaga</li></ul>
-<ul><li>👀 Me interesa la creación de Design Systems, el UX y la accesibilidad web.</ul></li>
-<ul><li>🌱 Actualmente estoy aprendiendo HTML/CSS/JavaScript.</ul></li>
-<ul><li>😄 Deseo desarrollar proyectos sociales con un enfoque de inclusión para personas con discapacidad.</ul></li>
+<ul>
+	<li>👋 Hola, soy @stebantalaga</li>
+	<li>👀 Me interesa la creación de Design Systems, el UX y la accesibilidad web.</li>
+	<li>🌱 Actualmente estoy aprendiendo HTML/CSS/JavaScript.</li>
+	<li>😄 Deseo desarrollar proyectos sociales con un enfoque de inclusión para personas con discapacidad.</li>
+</ul>
 
 
 
