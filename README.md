@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hola, soy @stebantalaga
+👀 Me interesa la documentación de Design Systems y la accesibilidad web.
+🌱 Actualmente estoy aprendiendo HTML/CSS/JavaScript.
+😄 Deseo desarrollar proyectos sociales con un enfoque de inclusión para personas con discapacidad.
+
+
+
 
 <!--
 **stebantalaga/StebanTalaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
